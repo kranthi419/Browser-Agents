@@ -1,2 +1,3 @@
 lxml_html_clean
 browser-use
+pypdf2
